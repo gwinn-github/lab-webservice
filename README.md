@@ -2,4 +2,5 @@
 lab assignment
 
 This git repo requires Docker installation
-The installs a web app service with Docker-Compse and exposes that app svc on port 5000
+
+Which installs a web app service with Docker-Compse and exposes that app svc on port 5000
